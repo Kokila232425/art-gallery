@@ -1,0 +1,145 @@
+*{
+ margin: 0;
+}
+
+.frame{
+    height: 100vh;
+    width: 100%;
+}
+.first{
+    height: 100vh;
+    width: 70%;
+    background-color:white;
+    background-image: url(background1.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.first h5{
+     font-size: 58px;
+     position: relative;
+     /* display: flex; */
+     top: 200px;
+     left: 150px;
+}
+.first h1{
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    top: 250px;
+    left: 300px;
+
+}
+.first .img1{
+    position: relative;
+    top: 280px;
+    left: 390px;
+    border-radius: 100%;
+}
+.first .img2{
+
+    position: relative;
+    top: 280px;
+    left: 260px;
+}
+.first .img3{
+    position: relative;
+    top: 280px;
+    left: 360px;
+}
+.first .t1{
+    height: 10px;
+    width: 60px;
+
+   position: relative;
+   top: 350px;
+   left: 260px;
+}
+.first .t2{
+    height: 10px;
+    width: 60px;
+    position: relative;
+    top: 400px;
+ 
+    
+}
+.first h3{
+    font-size: 20px;
+    position: relative;
+    top: 370px;
+    left: 400px;
+    font-weight: lighter;
+}
+.p,.p2{
+    height: 30px;
+    width: 320px;
+    border-radius: 30px;
+    border: 2px blueviolet solid;
+    background-color: pink;
+}
+.p2{
+    position: relative;
+    top: 60px;
+}
+.first .box1{
+    border-radius: 25px;
+    height: 40px;
+    width: 120px;
+    background-color: pink;
+    border: solid blueviolet;
+    font-size: 15px;
+    position: relative;
+    top: 450px;
+    left: 350px;
+}
+
+
+.second{
+    height: 100vh;
+    width: 40%;
+    background-image: linear-gradient(blueviolet 80% ,pink);
+    position: relative;
+    left: 960px;
+    top: -750px;
+}
+.second h2{
+    font-size: 60px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 260px;
+    left: 160px;
+}
+.second .letter{
+    height: 50px;
+    width: 400px;
+    position: relative;
+    top: 360px;
+    left: 120px;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.letter p{
+    color: white;
+    padding-left: 30px;
+    word-spacing: 5px;
+    line-height: 30px;
+}
+.second a{
+    background-color: white;
+    height: 20px;
+    width: 50px;
+}
+.box {
+    border-radius: 25px;
+    height: 40px;
+    width: 170px;
+    background-color: white;
+    border: solid white;
+    font-size: 15px;
+    position: relative;
+    top: 410px;
+    left: 210px;
+}
+
